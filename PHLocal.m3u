@@ -1,0 +1,65 @@
+#EXTM3U 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Lg2aKov.png" group-title="Live TV",www.nickflexph.info
+http://iptvtree.net:8080/live/outputofflinechecker/AiPh5engoo2AinahKeeZ
+#EXTINF:-1 tvg-id="" tvg-name="PH : ABS CBN" tvg-logo="http://hostengine.live:25461/images/Phil.png" group-title="PHILIPPINES TV",PH : ABS CBN
+http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/57382
+#EXTINF:-1 tvg-id="" tvg-name="PH : ABS CBN NEWS" tvg-logo="http://hostengine.live:25461/images/Phil.png" group-title="PHILIPPINES TV",PH : ABS CBN NEWS
+http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/57383
+#EXTINF:-1 tvg-id="" tvg-name="PH : ANIMAX" tvg-logo="http://hostengine.live:25461/images/Phil.png" group-title="PHILIPPINES TV",PH : ANIMAX
+http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/57386
+#EXTINF:-1 tvg-id="" tvg-name="PH : BEAM TV" tvg-logo="http://hostengine.live:25461/images/Phil.png" group-title="PHILIPPINES TV",PH : BEAM TV
+http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/57390
+#EXTINF:-1 tvg-id="" tvg-name="PH : BEIN SPORTS 1" tvg-logo="http://hostengine.live:25461/images/Phil.png" group-title="PHILIPPINES TV",PH : BEIN SPORTS 1
+http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/57391
+#EXTINF:-1 tvg-id="" tvg-name="PH : BEIN SPORTS 2" tvg-logo="http://hostengine.live:25461/images/Phil.png" group-title="PHILIPPINES TV",PH : BEIN SPORTS 2
+http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/57392
+#EXTINF:-1 tvg-id="" tvg-name="PH : CARTOON NETWORK" tvg-logo="http://n2086.securepoint.io:25461/images/Phil.png" group-title="PHILIPPINES TV",PH : CARTOON NETWORK
+http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/57395
+#EXTINF:-1 tvg-id="" tvg-name="PH : CELESTIAL MOV PINOY" tvg-logo="http://n2086.securepoint.io:25461/images/Phil.png" group-title="PHILIPPINES TV",PH : CELESTIAL MOV PINOY
+http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/57394
+#EXTINF:-1 tvg-id="" tvg-name="PH : CINEMA ONE" tvg-logo="http://n2086.securepoint.io:25461/images/Phil.png" group-title="PHILIPPINES TV",PH : CINEMA ONE
+http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/57396
+#EXTINF:-1 tvg-id="" tvg-name="PH : CINEMO" tvg-logo="http://n2086.securepoint.io:25461/images/Phil.png" group-title="PHILIPPINES TV",PH : CINEMO
+http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/57384
+#EXTINF:-1 tvg-id="" tvg-name="PH : CLASSIC MOVIES" tvg-logo="http://hostengine.live:25461/images/Phil.png" group-title="PHILIPPINES TV",PH : CLASSIC MOVIES
+http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/57397
+#EXTINF:-1 tvg-id="" tvg-name="PH : CNN PHILIPPINES" tvg-logo="http://hostengine.live:25461/images/Phil.png" group-title="PHILIPPINES TV",PH : CNN PHILIPPINES
+http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/57398
+#EXTINF:-1 tvg-id="" tvg-name="PH : DISCOVERY ASIA WORLD" tvg-logo="http://hostengine.live:25461/images/Phil.png" group-title="PHILIPPINES TV",PH : DISCOVERY ASIA WORLD
+http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/57401
+#EXTINF:-1 tvg-id="" tvg-name="PH : DWKC TV" tvg-logo="http://hostengine.live:25461/images/Phil.png" group-title="PHILIPPINES TV",PH : DWKC TV
+http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/57404
+#EXTINF:-1 tvg-id="" tvg-name="PH : GMA 7" tvg-logo="http://n2086.securepoint.io:25461/images/Phil.png" group-title="PHILIPPINES TV",PH : GMA 7
+http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/200488
+#EXTINF:-1 tvg-id="" tvg-name="PH : GMA LIFE" tvg-logo="http://n2086.securepoint.io:25461/images/Phil.png" group-title="PHILIPPINES TV",PH : GMA LIFE
+http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/57406
+#EXTINF:-1 tvg-id="" tvg-name="PH : GMA NEWS" tvg-logo="http://n2086.securepoint.io:25461/images/Phil.png" group-title="PHILIPPINES TV",PH : GMA NEWS
+http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/57407
+#EXTINF:-1 tvg-id="" tvg-name="PH : GMA PINOY" tvg-logo="http://n2086.securepoint.io:25461/images/Phil.png" group-title="PHILIPPINES TV",PH : GMA PINOY
+http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/57408
+#EXTINF:-1 tvg-id="" tvg-name="PH : HBO FAMILY" tvg-logo="http://n2086.securepoint.io:25461/images/Phil.png" group-title="PHILIPPINES TV",PH : HBO FAMILY
+http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/57385
+#EXTINF:-1 tvg-id="" tvg-name="PH : HBO HITS" tvg-logo="http://n2086.securepoint.io:25461/images/Phil.png" group-title="PHILIPPINES TV",PH : HBO HITS
+http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/57399
+#EXTINF:-1 tvg-id="" tvg-name="PH : KNOWLEDGE CHANNEL" tvg-logo="http://n2086.securepoint.io:25461/images/Phil.png" group-title="PHILIPPINES TV",PH : KNOWLEDGE CHANNEL
+http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/57400
+#EXTINF:-1 tvg-id="" tvg-name="PH : LIFE TV" tvg-logo="http://hostengine.live:25461/images/Phil.png" group-title="PHILIPPINES TV",PH : LIFE TV
+http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/57410
+#EXTINF:-1 tvg-id="" tvg-name="PH : ONE" tvg-logo="http://n2086.securepoint.io:25461/images/Phil.png" group-title="PHILIPPINES TV",PH : ONE
+http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/57405
+#EXTINF:-1 tvg-id="" tvg-name="PH : ONE SPORT" tvg-logo="http://n2086.securepoint.io:25461/images/Phil.png" group-title="PHILIPPINES TV",PH : ONE SPORT
+http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/179393
+#EXTINF:-1 tvg-id="" tvg-name="PH : OUTDOOR CHANNEL" tvg-logo="http://n2086.securepoint.io:25461/images/Phil.png" group-title="PHILIPPINES TV",PH : OUTDOOR CHANNEL
+http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/179394
+#EXTINF:-1 tvg-id="" tvg-name="PH : TRAVEL CHANNEL" tvg-logo="http://n2086.securepoint.io:25461/images/Phil.png" group-title="PHILIPPINES TV",PH : TRAVEL CHANNEL
+http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/179395
+#EXTINF:-1 tvg-id="" tvg-name="PH : TV SHOP" tvg-logo="http://hostengine.live:25461/images/Phil.png" group-title="PHILIPPINES TV",PH : TV SHOP
+http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/57412
+#EXTINF:-1 tvg-id="" tvg-name="PH : TV5" tvg-logo="http://n2086.securepoint.io:25461/images/Phil.png" group-title="PHILIPPINES TV",PH : TV5
+http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/57411
+#EXTINF:-1 tvg-id="" tvg-name="PH : UNTV NEWS AND RESCUE" tvg-logo="http://hostengine.live:25461/images/Phil.png" group-title="PHILIPPINES TV",PH : UNTV NEWS AND RESCUE
+http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/57414
+#EXTINF:-1 tvg-id="" tvg-name="PH : VIVA CINEMA" tvg-logo="http://n2086.securepoint.io:25461/images/Phil.png" group-title="PHILIPPINES TV",PH : VIVA CINEMA
+http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/179396
+#EXTINF:-1 tvg-id="nbatv.us" tvg-name="US : NBA TV FHD 1080" tvg-logo="http://hostengine.live:25461/images/90798d95849ef4b30c1b5ea8d14e179a.png" group-title="USA FULL HD",US : NBA TV FHD 1080
+http://n2086.securepoint.io:25461/Marseille/UET4RmYa8j/53366
